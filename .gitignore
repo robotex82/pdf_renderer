@@ -1,0 +1,14 @@
+.bundle/
+log/*.log
+pkg/
+test/dummy/db/*.sqlite3
+test/dummy/log/*.log
+test/dummy/tmp/
+
+
+test/dummy/doc/api
+test/dummy/doc/app
+*.swp
+*~
+.project
+webrat.log
